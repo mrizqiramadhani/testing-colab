@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero rerum eligendi doloremque, neque quia itaque porro dolore expedita delectus praesentium sint quisquam saepe, ea quaerat fugiat repellat, quas provident architecto!</p>
+    <p>iki bini dua</p>
 </body>
 </html>
